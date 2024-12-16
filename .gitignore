@@ -1,0 +1,44 @@
+# Eclipse
+.project
+**/.project
+.classpath
+**/.classpath
+.settings/
+**/.settings/
+bin/
+**/bin/
+
+# IntelliJ
+.idea
+**/.idea
+*.ipr
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+# Vim
+*.swp
+*.swo
+
+# patch
+*.orig
+*.rej
+
+# OSX
+.DS_Store
+**/.DS_Store
+
+# Local environment
+.env
+**/.env
+
+# Logs
+*.log
+
+
